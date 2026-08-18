@@ -31,13 +31,13 @@ export default function Home() {
       </p>
       <div className="flex gap-4 flex-wrap">
         <Link
-          href="/portfolio"
+          href="/pharmaceutical"
           className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full text-sm font-semibold bg-amber text-ink hover:-translate-y-0.5 transition-transform"
         >
-          View our portfolio
+          View our Product
         </Link>
         <a
-          href="https://mail.google.com/mail/?view=cm&fs=1&to=partnerships@rexerapharma.com&su=Partnership%20Inquiry"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=info@rexerapharma.com&su=Partnership%20Inquiry"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full text-sm font-semibold border border-paper/20 hover:bg-paper/10 transition-colors"

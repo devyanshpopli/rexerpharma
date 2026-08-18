@@ -1,13 +1,3 @@
-module.exports = [
-"[turbopack-node]/transforms/postcss.ts?config=[project]/rexpharma/postcss.config.mjs { CONFIG => \"[project]/rexpharma/postcss.config.mjs [postcss] (ecmascript)\" } [postcss] (ecmascript, async loader)", ((__turbopack_context__) => {
-
-__turbopack_context__.v((parentImport) => {
-    return Promise.all([
-  "chunks/05p9_17hanbz._.js",
-  "chunks/[root-of-the-server]__0xkml_q._.js"
-].map((chunk) => __turbopack_context__.l(chunk))).then(() => {
-        return parentImport("[turbopack-node]/transforms/postcss.ts?config=[project]/rexpharma/postcss.config.mjs { CONFIG => \"[project]/rexpharma/postcss.config.mjs [postcss] (ecmascript)\" } [postcss] (ecmascript)");
-    });
-});
-}),
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:202343194e95ccbd736db6eae708c718ff0b9bc375d2466d912b3b13f2a81424
+size 701

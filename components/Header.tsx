@@ -38,7 +38,7 @@ export default function Header() {
                 href="/neutraceutical"
                 className="block px-4 py-2.5 text-sm text-ink-soft hover:text-ink hover:bg-paper-dim transition-colors"
               >
-                Neutraceuticals
+                Nutraceuticals
               </Link>
             </div>
           </div>

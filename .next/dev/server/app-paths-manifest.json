@@ -1,8 +1,3 @@
-{
-  "/contact/page": "app/contact/page.js",
-  "/neutraceutical/page": "app/neutraceutical/page.js",
-  "/page": "app/page.js",
-  "/pharmaceutical/page": "app/pharmaceutical/page.js",
-  "/services/pharmacovigilance/page": "app/services/pharmacovigilance/page.js",
-  "/services/regulatoryaffairs/page": "app/services/regulatoryaffairs/page.js"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd224f392fd1365381809b935b2440b1362fee60ac270a2fba00ea7a691cc77
+size 212

@@ -1,5 +1,13 @@
-{"timestamp":"00:01:11.283","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 361ms. If \\\\?\\E:\\rexpharma\\.next\\dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
-{"timestamp":"00:01:45.771","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:01:48.915","source":"Server","level":"LOG","message":"○ Compiling / ..."}
-{"timestamp":"00:02:55.677","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
-{"timestamp":"00:02:55.848","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\" \"\\u001b[2m(file://E:/rexpharma/.next/dev/static/chunks/05p9_next_dist_0tahm4v._.js:776:13)\\u001b[22m\""}
+{"timestamp":"00:00:44.627","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 2710ms. If \\\\?\\E:\\rexpharma\\.next\\dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
+{"timestamp":"00:01:24.555","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:01:28.710","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:07:11.369","source":"Server","level":"LOG","message":"✓ Compiled in 1371ms"}
+{"timestamp":"00:07:30.069","source":"Server","level":"LOG","message":"✓ Compiled in 188ms"}
+{"timestamp":"00:08:01.939","source":"Server","level":"LOG","message":"✓ Compiled in 239ms"}
+{"timestamp":"00:08:46.893","source":"Server","level":"LOG","message":"✓ Compiled in 513ms"}
+{"timestamp":"00:09:45.121","source":"Server","level":"LOG","message":"○ Compiling /_not-found/page ..."}
+{"timestamp":"00:10:36.184","source":"Server","level":"LOG","message":"✓ Finished filesystem cache database compaction in 18.6s"}
+{"timestamp":"00:15:04.336","source":"Server","level":"LOG","message":"○ Compiling /neutraceutical ..."}
+{"timestamp":"00:15:18.902","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:15:23.584","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"00:16:25.412","source":"Server","level":"LOG","message":"✓ Finished filesystem cache database compaction in 15.0s"}

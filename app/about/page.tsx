@@ -138,7 +138,7 @@ export default function About() {
               growing.&rdquo;
             </p>
             <div className="text-sm text-paper/70">
-              <div className="font-semibold text-paper">[Director Name]</div>
+              <div className="font-semibold text-paper">Mr. </div>
               <div>Managing Director, Rexera Pharma</div>
             </div>
           </Reveal>

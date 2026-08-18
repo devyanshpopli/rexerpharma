@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react";
 const options = [
   {
     label: "WhatsApp",
-    href: "https://wa.me/15550192044",
+    href: "https://wa.me/7017748074",
     icon: (
       <path
         d="M16 4a12 12 0 0 0-10.4 18l-1.3 6 6.2-1.3A12 12 0 1 0 16 4Z"
@@ -17,7 +17,7 @@ const options = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/company/rexera-pharma",
+    href: "https://www.linkedin.com/in/rexera-pharma-b348621bb",
     icon: (
       <>
         <rect x="6" y="12" width="4" height="14" stroke="currentColor" strokeWidth="1.6" fill="none" />
@@ -29,7 +29,7 @@ const options = [
   },
   {
     label: "Email",
-    href: "mailto:partnerships@rexerapharma.com?subject=Partnership Inquiry",
+    href: "mailto:info@rexerapharma.com?subject=Partnership Inquiry",
     icon: (
       <>
         <rect x="5" y="8" width="22" height="16" rx="2" stroke="currentColor" strokeWidth="1.6" fill="none" />

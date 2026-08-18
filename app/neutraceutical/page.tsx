@@ -97,7 +97,7 @@ export default function Nutraceuticals() {
         <div className="max-w-[1180px] mx-auto px-8 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
           <Reveal>
             <div className="aspect-[4/3] rounded-3xl overflow-hidden bg-paper-dim">
-              <img src="/nutraceuticals.jpg" alt="Rexera Pharma nutraceuticals" className="w-full h-full object-cover" />
+              <img src="/nutraceutical.jpg" alt="Rexera Pharma nutraceuticals" className="w-full h-full object-cover" />
             </div>
           </Reveal>
           <Reveal>

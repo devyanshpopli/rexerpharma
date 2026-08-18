@@ -1,11 +1,3 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "e3b371bb7edfee2d15cd404842dbf8be",
-    "previewModeSigningKey": "8ffef9d9f61eb549affaf9960ffd1123d8d13a2f7962818f1b0daf208ee7b1d5",
-    "previewModeEncryptionKey": "1d511c97c35a1b0af281c92e32c4e84921b5a8220adf7b14c26dcfcd2031c2fb"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7a88a2cada8c551369382bcd334f3e545a47fcb5983aca25f56a1d0a04f48cb
+size 354

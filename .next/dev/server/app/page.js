@@ -1,15 +1,3 @@
-var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/app/page.js")
-R.c("server/chunks/ssr/05p9_next_dist_1h36wwn._.js")
-R.c("server/chunks/ssr/[root-of-the-server]__1r2vzpr._.js")
-R.c("server/chunks/ssr/05p9_next_dist_esm_0rhvvcc._.js")
-R.c("server/chunks/ssr/05p9_next_dist_compiled_1cda0tq._.js")
-R.c("server/chunks/ssr/05p9_next_dist_server_route-modules_app-page_0ycjqtq._.js")
-R.c("server/chunks/ssr/[externals]__05yr04l._.js")
-R.c("server/chunks/ssr/rexpharma_0s88nmu._.js")
-R.c("server/chunks/ssr/05p9_next_dist_client_components_03nhp4z._.js")
-R.c("server/chunks/ssr/05p9_next_dist_client_components_builtin_forbidden_0wlk9yf.js")
-R.c("server/chunks/ssr/05p9_next_dist_client_components_builtin_unauthorized_12uj_kb.js")
-R.c("server/chunks/ssr/05p9_next_dist_client_components_builtin_global-error_1xptmyq.js")
-R.c("server/chunks/ssr/rexpharma__next-internal_server_app_page_actions_1u841e4.js")
-R.m("[project]/rexpharma/node_modules/next/dist/esm/build/templates/app-page.js?page=/page { MODULE_0 => \"[project]/rexpharma/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/rexpharma/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/rexpharma/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/rexpharma/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/rexpharma/node_modules/next/dist/client/components/builtin/global-error.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_5 => \"[project]/rexpharma/app/page.tsx [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)")
-module.exports=R.m("[project]/rexpharma/node_modules/next/dist/esm/build/templates/app-page.js?page=/page { MODULE_0 => \"[project]/rexpharma/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/rexpharma/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/rexpharma/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/rexpharma/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/rexpharma/node_modules/next/dist/client/components/builtin/global-error.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_5 => \"[project]/rexpharma/app/page.tsx [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)").exports
+version https://git-lfs.github.com/spec/v1
+oid sha256:c164a127fa614f1646a1bc21ab218f07d406e0a624228403e7c4ad500282f3c7
+size 2675
